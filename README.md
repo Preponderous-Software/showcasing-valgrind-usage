@@ -1,2 +1,2 @@
-# cpp-project-template
-This is a template for a C++ project.
+# Showcasing Valgrind usage
+The project is intended to showcase how valgrind can be used to detect memory leaks.
